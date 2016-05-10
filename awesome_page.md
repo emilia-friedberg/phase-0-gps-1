@@ -8,4 +8,4 @@
 
 [Markdown help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-![]
+![Emilia and Amanda!](https://github.com/emilia-friedberg/phase-0-gps-1/blob/awesome-branch/EmiliaAmandaImage.png?raw=true)
