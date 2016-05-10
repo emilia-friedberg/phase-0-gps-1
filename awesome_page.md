@@ -4,7 +4,7 @@
 
 **Hurray!**
 
-`This is a really long sentence that if it is too long then I can scroll through it. Here is a different change I am adding.`
+`This is a really long sentence that if it is too long then I can scroll through it. Here I am making it longer.`
 
 [Markdown help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
